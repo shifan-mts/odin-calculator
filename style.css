@@ -12,10 +12,12 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    
 }
 .display{
     display: flex;
     justify-content: center;
+    
     width: 50%;
     background-color: #97a862;
     padding: 6.6%;
@@ -28,10 +30,11 @@
     display: flex;
     flex-wrap: wrap;
     
+    
 }
 
 body{
-   
+  background-image: url('https://i.giphy.com/3og0IS6SldW60DdCRa.webp'); 
     
 }
 .op {
@@ -40,4 +43,5 @@ body{
     border: 2px solid black;
     
     width: 20%;
+    
 }
